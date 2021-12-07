@@ -9,7 +9,7 @@ const COMMANDS = {
     'Supported commands: <span class="code">tools</span>, <span class="code">files</span>, <span class="code">showme</span>',
   tools:'Supported commands: <span class="code">hackbar</span>, <span class="code">shell</span>, <span class="code">ransomeware</span><span class="code">rat</span>',
   files:'Supported commands: <span class="code">hackbar</span>, <span class="code">shell</span>, <span class="code">ransomeware</span><span class="code">rat</span>',
-  showme:'<img src=https://blogger.googleusercontent.com/img/a/AVvXsEiU_mwOrJQaBgwtDPGSjmU4gcYCjlAwXQfPix0QUmEDJ95DCpPFU7zyOwLPeiie7cTzp6Z1SopP7MRaMEGY4EreiC4ULn4D5R3K0nDTcb4tNaHjYGxRoX3MAL_sU6cLg7BfHx_vDq_4Gvs6GN2_V4I-J8hBGbknEL9IQ7l6kLUwHK92MeifUVt2wiTaaw=s320>',
+  showme:'<img src=https://blogger.googleusercontent.com/img/a/AVvXsEiU_mwOrJQaBgwtDPGSjmU4gcYCjlAwXQfPix0QUmEDJ95DCpPFU7zyOwLPeiie7cTzp6Z1SopP7MRaMEGY4EreiC4ULn4D5R3K0nDTcb4tNaHjYGxRoX3MAL_sU6cLg7BfHx_vDq_4Gvs6GN2_V4I-J8hBGbknEL9IQ7l6kLUwHK92MeifUVt2wiTaaw=s250>',
   
   hackbar:'Supported commands: <span class="code">download</span>, <span class="code">installation</span>',
   download:"<a href='https://www.akashsebastian.com/certificates' class='success link'>download</a>",
