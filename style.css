@@ -3,7 +3,8 @@ body {
     height: 100%;
 }
 body, footer, .hero-body {
-    background-color: rgba(93,159,23,255) !important;
+  
+    background: url('https://i.imgur.com/SsVBVWk.png') 100% !important;
 }
 
 a {
