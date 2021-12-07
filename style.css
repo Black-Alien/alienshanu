@@ -36,7 +36,7 @@ p {
 
 
 .image-overlay {
-    background: url('https://i.imgur.com/rAizp1E.jpg') 20%;
+    background: url('https://i.imgur.com/rAizp1E.jpg');
     opacity: 0.5;
 }
 
