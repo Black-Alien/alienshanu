@@ -192,7 +192,9 @@ p {
 .code, .error, .fa-heart {
     color: #0ffa0f
 }
-
+.code1, .fa-heart {
+    color: #ff0000
+}
 .fa-heart {
     padding-top: 0.5rem;
 }
