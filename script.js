@@ -5,8 +5,8 @@ window.onload = () => {
 const COMMANDS = {
   whoami:
     'alien',
-  8055:
-    'Supported commands: <span class="code">A</span>, <span class="code">B</span>, <span class="code">C</span>, <span class="code">D</span>, <span class="code">E</span>, <span class="code">F</span>, <span class="code">G</span>',
+  aaa:
+    'Supported commands: <span class="code">a</span>, <span class="code">b</span>, <span class="code">c</span>, <span class="code">d</span>, <span class="code">e</span>, <span class="code">f</span>, <span class="code">g</span>',
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">certificates</span>, <span class="code">contact</span>',
   about:
@@ -19,8 +19,8 @@ const COMMANDS = {
   resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   experience: "No Experience😥",
   experience: "No Experience2😥",
-   A: "No Experience😥",
-   B: "No Experience😥",
+   a: "No Experience😥",
+   b: "No Experience😥",
   exp: "<iframe width='360' height='280' src='https://www.youtube.com/embed/HMPNr-98VSQ' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
   ack: 
     "<a href='https://bughunter.withgoogle.com/profile/c199d616-6cc3-4e90-a3e2-31e80f0ec1a2' class='success link'>Google Hall of Fame</a> , <a href='https://www.nokia.com/responsible-disclosure/' class='success link'>Nokia HOF</a> , <a href='https://dev.to/security' class='success link'>dev.to HOF</a> , <a href='https://bugcrowd.com/netflix/hall-of-fame' class='success link'>Netflix HOF</a> , <a href='https://bugcrowd.com/pinterest/hall-of-fame' class='success link'>Pinterest HOF</a> , <a href='https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html' class='success link'>Philips HOF</a> , <a href='https://bugcrowd.com/soundcloud/hall-of-fame' class='success link'>Soundcloud HOF</a> , <a class='success link'>many more...</a>  ", 
