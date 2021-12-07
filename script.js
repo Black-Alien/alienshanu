@@ -18,7 +18,8 @@ const COMMANDS = {
   certificates: "<a href='https://www.akashsebastian.com/certificates' class='success link'>certificates</a>",
   resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   experience: "No Experience😥",
- 
+  experience: "No Experience2😥",
+  experience: "No Experience3😥",
   ack: 
     "<a href='https://bughunter.withgoogle.com/profile/c199d616-6cc3-4e90-a3e2-31e80f0ec1a2' class='success link'>Google Hall of Fame</a> , <a href='https://www.nokia.com/responsible-disclosure/' class='success link'>Nokia HOF</a> , <a href='https://dev.to/security' class='success link'>dev.to HOF</a> , <a href='https://bugcrowd.com/netflix/hall-of-fame' class='success link'>Netflix HOF</a> , <a href='https://bugcrowd.com/pinterest/hall-of-fame' class='success link'>Pinterest HOF</a> , <a href='https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html' class='success link'>Philips HOF</a> , <a href='https://bugcrowd.com/soundcloud/hall-of-fame' class='success link'>Soundcloud HOF</a> , <a class='success link'>many more...</a>  ", 
 acknowledges: 
