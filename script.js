@@ -11,6 +11,13 @@ const COMMANDS = {
   files:'Supported commands: <span class="code">hackbar</span>, <span class="code">shell</span>, <span class="code">ransomeware</span><span class="code">rat</span>',
   showme:'<img src=https://blogger.googleusercontent.com/img/a/AVvXsEiU_mwOrJQaBgwtDPGSjmU4gcYCjlAwXQfPix0QUmEDJ95DCpPFU7zyOwLPeiie7cTzp6Z1SopP7MRaMEGY4EreiC4ULn4D5R3K0nDTcb4tNaHjYGxRoX3MAL_sU6cLg7BfHx_vDq_4Gvs6GN2_V4I-J8hBGbknEL9IQ7l6kLUwHK92MeifUVt2wiTaaw=s320>',
   
+  hackbar:'Supported commands: <span class="code">download</span>, <span class="code">installation</span>',
+  download:"<a href='https://www.akashsebastian.com/certificates' class='success link'>download</a>",
+  installation:'Supported commands: <iframe width="250" height="200" src="https://www.youtube.com/embed/j58ETtS0avw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+  
+  
+  
+  
   
   
   help:
