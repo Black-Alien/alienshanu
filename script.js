@@ -4,7 +4,7 @@ window.onload = () => {
  }
 const COMMANDS = {
   whoami:
-    'alien',
+    'Alien',
   aaa:
     'Supported commands: <span class="code">a</span>, <span class="code">b</span>, <span class="code">c</span>, <span class="code">d</span>, <span class="code">e</span>, <span class="code">f</span>, <span class="code">g</span>',
   help:
