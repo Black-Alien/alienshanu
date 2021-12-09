@@ -29,7 +29,7 @@ const COMMANDS = {
   resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
   experience: "No Experience😥",
   acknowledges: "<a href='xxxx' class='success link'>Google Hall of Fame</a> , <a href='xxxx' class='success link'>Nokia HOF</a> , <a href='xxxx' class='success link'>dev.to HOF</a> , <a href='xxxx' class='success link'>Netflix HOF</a> , <a href='xxxx' class='success link'>Pinterest HOF</a> , <a href='xxxx' class='success link'>Philips HOF</a> , <a href='xxxx' class='success link'>Soundcloud HOF</a> , <a class='success link'>many more...</a>  ", 
-  contact: "You can contact me on any of following :<br><a href='https://t.me/xxxx' class='success link'>Telegram</a>, <a href='https://www.instagram.com/xxxx/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/xxxx/' class='success link'>Twitter</a>, <a href='mailto:mail@blackalien@pm.me' class='success link'>Email</a>, <a href='https://api.whatsapp.com/send?phone=+966547818575' class='success link'>whatsapp</a>",
+  contact: "You can contact me on any of following :<br><a href='https://t.me/Alien_Shanu/' class='success link'>Telegram</a>, <a href='https://www.instagram.com/alien_shanu/' class='success link'>Instagram</a>, <a href='https://www.twitter.com/Alien_Shanu/' class='success link'>Twitter</a>, <a href='mailto:mail@blackalien@pm.me' class='success link'>Email</a>, <a href='https://api.whatsapp.com/send?phone=+966547818575' class='success link'>whatsapp</a>",
  
 };
 
