@@ -12,7 +12,7 @@ const COMMANDS = {
   showme:'<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiU_mwOrJQaBgwtDPGSjmU4gcYCjlAwXQfPix0QUmEDJ95DCpPFU7zyOwLPeiie7cTzp6Z1SopP7MRaMEGY4EreiC4ULn4D5R3K0nDTcb4tNaHjYGxRoX3MAL_sU6cLg7BfHx_vDq_4Gvs6GN2_V4I-J8hBGbknEL9IQ7l6kLUwHK92MeifUVt2wiTaaw=s250">',
   
   hackbar:'Supported commands: <span class="code">download</span>, <span class="code">installation</span>',
-  download:"<a img src='https://blogger.googleusercontent.com/img/a/AVvXsEiU_mwOrJQaBgwtDPGSjmU4gcYCjlAwXQfPix0QUmEDJ95DCpPFU7zyOwLPeiie7cTzp6Z1SopP7MRaMEGY4EreiC4ULn4D5R3K0nDTcb4tNaHjYGxRoX3MAL_sU6cLg7BfHx_vDq_4Gvs6GN2_V4I-J8hBGbknEL9IQ7l6kLUwHK92MeifUVt2wiTaaw=s100'href='https://download1653.mediafire.com/uvqewa3d3qhg/n2ohtkdpv33gxh5/HBM+Hackbar+2020-v.07.1.xpi' class='success link'>click here to download</a>",
+  download:"<a href='https://download1653.mediafire.com/uvqewa3d3qhg/n2ohtkdpv33gxh5/HBM+Hackbar+2020-v.07.1.xpi' class='success link'>click here to download<img src='https://blogger.googleusercontent.com/img/a/AVvXsEiU_mwOrJQaBgwtDPGSjmU4gcYCjlAwXQfPix0QUmEDJ95DCpPFU7zyOwLPeiie7cTzp6Z1SopP7MRaMEGY4EreiC4ULn4D5R3K0nDTcb4tNaHjYGxRoX3MAL_sU6cLg7BfHx_vDq_4Gvs6GN2_V4I-J8hBGbknEL9IQ7l6kLUwHK92MeifUVt2wiTaaw=s100'></a>",
   installation:"<iframe width='300' height='250' src='https://www.youtube.com/embed/j58ETtS0avw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
   
   
