@@ -12,7 +12,7 @@ const COMMANDS = {
   showme:'<img src="./showme.png">',
   
   hackbar:'Supported commands: <span class="code">download</span>, <span class="code">installation</span>',
-  download:"<a href='./HBM Hackbar 2020-v.07.1.xpi' class='success link'>click here to download<img src='./hkbar.png'></a>",
+  download:"<a href='./HBM Hackbar 2020-v.07.1.xpi' class='success link'><img src='./hkbar.png'></a>, <a href='./Alien 2020 Red Button Theme.json' class='success link'><img src='./theme.png'></a>",
   installation:"<iframe width='300' height='250' src='https://www.youtube.com/embed/j58ETtS0avw' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
   
   
