@@ -45,7 +45,7 @@ inputfield.addEventListener('keypress', (e) =>{
       return;
     }
     let output;
-    output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
+    output = `<div class="terminal-line"><span class="code1">➜</span> <span class="success">Alien</span><span class="directory">@Shanu:~$</span> ${input}</div>`;
     if (!COMMANDS.hasOwnProperty(input)) {
       output += `<div class="terminal-line">no such command: ${input}</div>`;
       console.log("Oops! no such command");
