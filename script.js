@@ -60,3 +60,8 @@ inputfield.addEventListener('keypress', (e) =>{
   };
 });
 
+<audio controls autoplay>
+ 
+  <source src="./scarylaugh.mp3" type="audio/mpeg">
+
+</audio>
