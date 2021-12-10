@@ -196,6 +196,9 @@ p {
 .code1, .fa-heart {
     color: #ff0000
 }
+.code2, .fa-heart {
+    color: #002aff
+}
 .fa-heart {
     padding-top: 0.5rem;
 }
