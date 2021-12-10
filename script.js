@@ -57,6 +57,7 @@ inputfield.addEventListener('keypress', (e) =>{
     }<div class="terminal-line">${output}</div>`;
     terminalOutput.scrollTop = terminalOutput.scrollHeight; 
     e.target.value = ""
+ 
   };
 });
 
