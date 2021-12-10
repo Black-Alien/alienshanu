@@ -8,7 +8,7 @@ const COMMANDS = {
   8055:
     'Supported commands: <span class="code">tools</span>, <span class="code">files</span>, <span class="code">showme</span>',
   tools:'Supported commands: <span class="code">hackbar</span>, <span class="code">shell</span>, <span class="code">ransomeware</span><span class="code">rat</span>',
-  files:'Supported commands: <span class="code">hackbar</span>, <span class="code">shell</span>, <span class="code">ransomeware</span><span class="code">rat</span>',
+  files:'Supported commands: <span class="code">notes</span>, <span class="code">hacking video</span>, <span class="code">pdf course</span><span class="code">links</span>',
   showme:'<img src="./showme.png">',
   
   hackbar:'Supported commands: <span class="code">download</span>, <span class="code">installation</span>',
