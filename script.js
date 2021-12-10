@@ -23,7 +23,7 @@ const COMMANDS = {
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">certificates</span>, <span class="code">contact</span>',
   about: "Hello 👋<br>I'm Alien Shanu. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion",
-  skills: '<span class="code">Skill:</span>Pentesting, Programming, Bughunting...<br>',
+  skills: '<span class="code">Skill:</span>Pentesting, Programming, Bughunting, Grapic Design, 2D Animation, ...<br>',
   education: "unknown",
   certificates: "<a href='https://www.alienshanu.me/certificates' class='success link'>certificates</a>",
   resume: "<a href='./resume.pdf' class='success link'>resume.pdf</a>",
